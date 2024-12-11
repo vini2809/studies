@@ -1,0 +1,75 @@
+* HEAD
+
+<!-- Comentário -->
+
+<html lang="pt-BR">
+<title></title>: Título da página
+<style href="style.css">
+
+
+
+
+* BODY
+
+<h*></h*>: Heading
+<p></p>: Parágrafo
+<pre></pre>: Parágrafo com espaços e quebras de linha
+
+<q></q>: Texto entre " "
+<b></b>: Texto em negrito
+<strong></strong>: Texto em negrito com importância extra
+<i></i>: Texto em itálico, usada para termos técnicos, frases de outra língua, etc
+<em></em>: Texto em itálico com importância extra
+<u></u>: Texto sublinhado
+<del></del>: Texto riscado
+<small></small>: Texto com uma fonte menor
+<mark></mark>: Texto com marca-texto
+<sub></sub>: Texto em baixo
+<sup></sup>: Texto em cima
+
+<blockquote cite="quote"></blockquote>: Texto de quotação Identado
+<abbr title=""></abbr>: Abreviação que ao passar o mouse mostra o nome completo
+<address></address>: Endereço em itálico
+<cite></cite>: Referência a um trabalho artístico
+
+<bdo dir="rtl"></bdo>: Inverte os caracteres do texto
+
+<br>: Quebra de linha
+<hr>: Linha horizontal
+
+
+<a href="link"></a>: Link para uma página
+<img src="fonte">: Imagem
+
+<div></div> Wrapper para elementos
+
+
+* ATRIBUTES
+
+style: CSS
+height: Altura
+width: Largura/Grossura
+href: URL
+src: URL ou diretório
+alt: Texto alternativo caso o elemento não carregue
+title: Texto quando passar o mouse em cima do elemento
+
+
+
+
+* CSS
+
+color: Cor do elemento
+background-color: Cor do fundo do elemento
+
+text-align: Em que parte da tela o texto será exibido
+font-family: Fonte do texto
+font-size: Tamanho da fonte
+
+border: Indica como é a borda do elemento
+
+
+
+
+
+
