@@ -4,9 +4,34 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Site</title>
+
+        <link rel="stylesheet" href="reset.css">
         <link rel="stylesheet" href="style.css">
+        
     </head>
     <body>
-        <span>diuawgdywadyuaw</span> <p>  doiawndudwadwasawabd</p>
+        <header>
+            <input class="album-search" type="search" value="">
+            <button onclick="createAlbum()">ADICIONA</button>
+            <button onclick="removeAlbum()">REMOVE</button>
+        </header>
+        <main >
+            <div class="albums-grid">
+                <div class="album">
+                    <div class="album-info">
+                        <p class="album-name">In Rainbows</p>
+                        <p class="album-band">Radiohead (2007)</p>
+                    </div>
+                
+                    <img class="album-cover" src="https://upload.wikimedia.org/wikipedia/pt/9/96/Radiohead_-_In_Rainbows.jpg" alt="In Rainbows">
+                
+                    <div class="album-description">
+                        <p class="album-genre">Art Rock, Experimental</p>
+                    </div>
+                </div>
+            </div>
+        </main>
     </body>
+
+    <script src="code.js"></script>
 </html>
